@@ -1,2 +1,2 @@
 # AtCoder
- AtCoder Contest Solutions
+My solutions to AtCoder contests.
